@@ -29,7 +29,7 @@ Repositório com as atividades e matérias desenvolvidas ao longo da disciplina.
 |    04    |     Análise de Algoritmos Recursivos com o Método Mestre      |       [Link](materias/conteudos/4.%20analise_algoritmo_recursivo_metodo_mestre.excalidraw) | [Link](materias/conteudos/4.%20analise_algoritmo_recursivo_metodo_mestre.svg)       |
 |    05    | Análise de Algoritmos Recursivos com o Método da Substituição | [Link](materias/conteudos/5.%20analise_algoritmo_recursivo_metodo_substituicao.excalidraw) | [Link](materias/conteudos/5.%20analise_algoritmo_recursivo_metodo_substituicao.svg) |
 |    06    |                      Análise Amortizada                       |                              [Link](materias/conteudos/6.%20analise_amortizada.excalidraw) | [Link](materias/conteudos/6.%20analise_amortizada.svg)                              |
-|    07    |         Prova de Corretude de Algoritmos Interativos          | [Link](materias/conteudos/7.%20prova%20_de_corretude_de_algoritmos_interativos.excalidraw) | [Link](materias/conteudos/7.%20prova%20_de_corretude_de_algoritmos_interativos.svg) |
+|    07    |          Prova de Corretude de Algoritmos Iterativos          |  [Link](materias/conteudos/7.%20prova%20_de_corretude_de_algoritmos_iterativos.excalidraw) | [Link](materias/conteudos/7.%20prova%20_de_corretude_de_algoritmos_iterativos.svg)  |
 |    08    |          Prova de Corretude de Algoritmos Recursivos          |  [Link](materias/conteudos/8.%20prova%20_de_corretude_de_algoritmos_recursivos.excalidraw) | [Link](materias/conteudos/8.%20prova%20_de_corretude_de_algoritmos_recursivos.svg)  |
 
 ### 📙 Resumos (Listas Presenciais)
